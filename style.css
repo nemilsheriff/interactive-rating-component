@@ -27,8 +27,9 @@ body {
 .container {
       background-color: var(--Dark-Blue);
       margin: auto 2rem;
-      border-radius: 0.5rem;
+      border-radius: 1rem;
       padding: 1.5rem;
+      max-width: 340px;
 }
 
 .icon-star {
